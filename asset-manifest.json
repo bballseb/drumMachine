@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bballseb/drumMachine.git/static/css/main.cb0fe274.css",
+    "main.js": "/bballseb/drumMachine.git/static/js/main.3b287b28.js",
+    "static/js/787.e9bed731.chunk.js": "/bballseb/drumMachine.git/static/js/787.e9bed731.chunk.js",
+    "index.html": "/bballseb/drumMachine.git/index.html",
+    "main.cb0fe274.css.map": "/bballseb/drumMachine.git/static/css/main.cb0fe274.css.map",
+    "main.3b287b28.js.map": "/bballseb/drumMachine.git/static/js/main.3b287b28.js.map",
+    "787.e9bed731.chunk.js.map": "/bballseb/drumMachine.git/static/js/787.e9bed731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb0fe274.css",
+    "static/js/main.3b287b28.js"
+  ]
+}

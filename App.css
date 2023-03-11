@@ -1,0 +1,32 @@
+*{
+  background-color: blanchedalmond;
+}
+.Sounds{
+  text-align: center;
+  font-size: 60px;
+}
+.App {
+  display: flex;
+  justify-content: center;
+  margin-top: 33vh;
+}
+  .drum-pads{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .drum-pad{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #text{
+    cursor: pointer;
+  }
+  .displayText{
+    text-align: center;
+    font-size: 25px;
+    font-style: bold;
+  }
